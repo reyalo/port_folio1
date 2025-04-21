@@ -99,7 +99,7 @@ font-family: 'Jockey One', sans-serif;
 }
 
 .cl-effect-1 a::before {
-	margin-right: 10px;
+	margin-right: 20px;
 	content: '[';
 	-webkit-transform: translateX(20px);
 	-moz-transform: translateX(20px);
